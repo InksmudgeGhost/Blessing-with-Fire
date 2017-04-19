@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Level Finishing Scripts\DoorGuardianScripting.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerHealthManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HurtEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy Scripts\SirenScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Level Finishing Scripts\DoorActivating.cs" Line="12" Column="3" />
+      <File FileName="Assets\Scripts\Level Finishing Scripts\BushUnoScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Level Finishing Scripts\BushDosScript.cs" Line="11" Column="26" />
+      <File FileName="Assets\Scripts\Level Finishing Scripts\Key1Script.cs" Line="8" Column="30" />
+      <File FileName="Assets\Scripts\Level Finishing Scripts\Key2Script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Level Finishing Scripts\DoorGuardianScripting.cs" Line="15" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
